@@ -1,8 +1,8 @@
 Hi, This repository has been cloned from gr-ieee802.11 and modified to perform soft decision Viterbi decoding (SDVD). The SDVD module uses Viterbi decoder from Openairinterface5g.   
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Hi! 
-======
+Hi!
+>>>>>>> a170ab6df1438f4de2d1d2fcb9b5e19aca5390d1
 
 This an IEEE 802.11 a/g/p transceiver for GNU Radio that is fitted for operation with Ettus N210s and B210s. Interoperability was tested with many off-the-shelf WiFi cards and IEEE 802.11p prototypes. The code can also be used in simulations.
 
